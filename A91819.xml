@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tapeinobasia: or, A sermon of walking humbly with God. Preached at Serjeants Inne in Chancery-lane, by Mr John Ridley, Chaplain there. April 29. 1649. Imprimatur. John Downame. May 8. 1649.</title>
+            <author>Ridley, John R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91819</idno>
+            <idno type="STC">Wing R1450</idno>
+            <idno type="STC">Thomason E556_10</idno>
+            <idno type="STC">ESTC R205765</idno>
+            <idno type="EEBO-CITATION">99865046</idno>
+            <idno type="PROQUEST">99865046</idno>
+            <idno type="VID">117281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117281)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tapeinobasia: or, A sermon of walking humbly with God. Preached at Serjeants Inne in Chancery-lane, by Mr John Ridley, Chaplain there. April 29. 1649. Imprimatur. John Downame. May 8. 1649.</title>
+                  <author>Ridley, John R.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Martin, and J. Ridley; and are to be sold at the Castle in Fleet-street, by Ram-alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word in title is in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "May".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117281:1" rendition="simple:additions"/>
+            <p>ΤΑΡΕΙΝΟΒΑΣΙΑ: Or, A SERMON OF <hi>Walking humbly with God.</hi> Preached at Serjeants Inne in Chancery-lane, BY M<hi rend="sup">r</hi> 
+               <hi>JOHN RIDLEY,</hi> Chaplain there. <hi>April</hi> 29. 1649.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</p>
+               <bibl>
+                  <hi>Baſil.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Ad Zachcum Christus non veniſſet, niſi prius de ſycamoro deſcendiſſet.</p>
+               <bibl>
+                  <hi>G. F.</hi> E. L.</bibl>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>IMPRIMATUR.</p>
+                  <closer>
+                     <signed>John Downame. </signed>
+                     <date>
+                        <hi>May</hi> 8. 1649.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>John Martin,</hi> and <hi>J. Ridley;</hi> and are to be ſold at the Caſtle in <hi>Fleet-ſtreet,</hi> by Ram-alley. 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117281:2"/>
+            <pb facs="tcp:117281:2"/>
+            <head>TO THE Very Devout, and Practical Chriſtian, Lady ELIZABETH FINCH.</head>
+            <opener>
+               <salute>Elect Lady,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Searcher of all hearts knowes, with what fear I publiſh theſe mean thoughts of mine, to the publique Cen<g ref="char:EOLhyphen"/>ſure of this Super-fine Age But now, or never, is the time, to croud amongſt them at the Preſs, with hope to paſs Inviſible. My comfort is, that I begin in Humility, if I can digg lowe enough, my foundation will hold. For, truly, ſo far as I know the deceitfulneſs of mine own heart, I am confident, no man doth, or can think meaner of this Sermon, then I my ſelf do. And, I had rather the world ſhould ſay,
+<pb facs="tcp:117281:3"/>that its a plain, honeſt, good, pious Sermon; then that its an elaborate, polite, choyce piece. I write it not for Schollars, they need no ſuch mean helps, but for pur-blind Chriſtians, who feel their way before them, with a ſtaff; If they uſe it, and find direction, I have mine end. Had I ſought my ſelf, I could have put it in better cloathes. That I dedicate it unto your Ladiſhip, (though Motives of civill Conuſance are not wanting) yet that of Re<g ref="char:EOLhyphen"/>ligion prevailed with me; knowing by ſome years Obſervation, that you are one of thoſe, who deſire to <hi>Walk humbly with God.</hi> In which bleſſed way, I beſeech God keep you, guide you with his counſel here, and after that, receive you unto Glory: So prayeth</p>
+            <closer>
+               <signed>
+                  <hi>Your Ladiſhips in all ſpiritual employment,</hi> JOH: RIDLEY.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>Oh, quam me nimium probaſque, amaſque</l>
+                  <l>Quae vis Archetypas habere Nugas!</l>
+                  <bibl>
+                     <hi>Mart.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:117281:3"/>
+            <head>A Sermon Preached at <hi>Serjeants-Inne Aprill</hi> 29. 1649.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MICAH 6.8.</hi>
+                  </bibl>
+                  <p>— And to walk humbly with thy God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He holy Prophet having rectified the Judgment of this people, in that he<g ref="char:EOLunhyphen"/>reditary, and inveterate errour of their Nation: That Sacrifice was the only, and ultimate, worſhip of God. By giving a Negative anſwer to that Que<g ref="char:EOLhyphen"/>ſtion, put unto him by ſome pious votary, verſ 6. <hi>Wherewith ſhall I come before the Lord:</hi> and by a Poſitive declaring the Minde of God, what was good, and what God required of man: Firſt, In the duties of the ſecond Table, (the reaſons of which Inverſion I gave you the laſt Lords day) <hi>viz. to do juſt<g ref="char:EOLhyphen"/>ly,</hi> in Commutative and Diſtributive Juſtice; <hi>and to love mercy,</hi> Spiritual, and Corporal. In this remainder of the words, he declares what was good, and what God requires of man: in the duties of the firſt Table, <hi>viz. And to walk humbly with thy God.</hi> Which truly are
+<pb n="2" facs="tcp:117281:4"/>Words that engroſſe ſo much of Affection, that they leave the leſſe for Invention; words that have ſo much of Rapture, that they are fitter for Contemplation, then Meditation. St. <hi>Peter</hi> at the Transfiguration, was ſo raviſhed with the glory of the Company, and place; that he ſpake he knew not what. The <hi>Panegyriſt</hi> to <hi>Gratian,</hi> was ſo taken with his Imperial preſence, that he was willing to give over in the beginning; with <hi>Juvat haerere in tam dulci Cogitatione, &amp; quaſi functus Officio; lentiùs ago Remigia.</hi> But this were wholly to defraud your ex<g ref="char:EOLhyphen"/>pectation; you are come to hear a Sermon. Therefore conſider four things:</p>
+            <list>
+               <item>1. The term of Connexion; <hi>And.</hi>
+               </item>
+               <item>2. The matter of the Connexion: <hi>To walk humbly with God.</hi>
+               </item>
+               <item>3. The Motive, or Engagement: the bleſſed Re<g ref="char:EOLhyphen"/>lation; <hi>Thy God.</hi>
+               </item>
+               <item>4. The Poyſe, or Inforcement:
+<list>
+                     <item>1. This is good.</item>
+                     <item>2. This God requires of man.</item>
+                     <item>3. God hath ſhewed this to be his Will.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="1">1. The term of Connexion, <hi>And;</hi> a little word, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. For it ſtands here as a Mere<g ref="char:EOLhyphen"/>ſtone, like <hi>Jegar-Sahadutha, the heap of witnes,</hi> Gen. 31.47. between Morality, and Religion: <hi>to do juſtly, and to love mercy,</hi> are the bounds of Morality; but <hi>to walk humbly with God,</hi> is the holy land, the territory of Chri<g ref="char:EOLhyphen"/>ſtianity, the Churches patrimony. And, takes hold both wayes; it couples Morality to Religion, and Reli<g ref="char:EOLhyphen"/>gion to Morality: and millions of men are taken in fal<g ref="char:EOLhyphen"/>lacies on both ſides. Thus, ſome think it to be good, and all that God requires; to pay every one their own, to be juſt in bargaining, buying, and ſelling, borrowing,
+<pb n="3" facs="tcp:117281:4"/>and lending; to beſtow ſomething on the poor: (and I would to God in theſe dayes, wherein ſo much Per<g ref="char:EOLhyphen"/>fection is talked of, we could finde men Juſt and Merci<g ref="char:EOLhyphen"/>ful.) Not to arraign theſe at the ſtricteſt barr, but to weigh them in their own ſcales: Tell me then; Is it honeſty to pay men, and not Almighty God, their due? to dwell in Gods houſe, and pay no rent? to receive bleſſings from his bountiful, almoſt prodigal hand, and not to walk humbly with him? Tell me: Is it <hi>to love mercy,</hi> to inſtruct the Ignorant, cloath the Naked, feed the Hungry? and in the mean time, to be cruel to thy own ſoul, to let it ſtarve, and dye, for want of <hi>walking humbly with God.</hi> To theſe I muſt ſay, <hi>Unum deeſt,</hi> yet lackeſt thou one thing: up, for thou haſt a further journey to go, even to <hi>Horeb,</hi> the Mount of God. Mo<g ref="char:EOLhyphen"/>rality never brought any man to heaven, <hi>Male vivi<g ref="char:EOLhyphen"/>tur ſi Deo non bene Creditur,</hi> Aug. And, hath not his full due till you adde, <hi>Walk humbly with thy God.</hi>
+            </p>
+            <p n="2">2. And couples Religion to Morality. Thus, ſome there be who think it good, and all that God requires, to profeſs to the world, that they <hi>walk with God.</hi> &amp; ſo cloſe to him, that they are beyond Ordinances, and Sacra<g ref="char:EOLhyphen"/>ments, who yet forget <hi>to do juſtly, and love mercy.</hi> To theſe I muſt ſay, that when weighed, they will be found too light: for, as Religion for the knowing part of it, is the higheſt pitch of Conſecrate Reaſon; ſo for the practique part, its the higheſt Zenith of Conſecrate honeſty. Religion like a clock hath its motions with<g ref="char:EOLhyphen"/>in; <hi>i. e. Walking with God,</hi> but the Dyall is without, doing <hi>Juſtly,</hi> and loving <hi>Mercy:</hi> like a pair of Com<g ref="char:EOLhyphen"/>paſſes, one ſhauk is ſet faſt on its Center, by <hi>Walking with God;</hi> the other walks the circumference, and touch<g ref="char:EOLhyphen"/>eth every line of vertues Circle. St. <hi>Paul</hi> joyned them,
+<pb n="4" facs="tcp:117281:5"/>
+               <hi>Act.</hi> 24.16. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Herein do I exerciſe my ſelf, to have alwayes a conſcience voyd of offence, towards God, and towards men.</hi> Thus he taught the <hi>Corinthians,</hi> 2 Cor. 8.21. <hi>Providing for honeſt things, not only in the ſight of the Lord, but in the ſight of men.</hi> If you joyn them not; <hi>And,</hi> hath not its full due.</p>
+            <p n="2">2. The matter of the Connexion: <hi>To walk humbly with God.</hi> The tranſlations vary, <hi>Paratus ſis ambulare,</hi> Hier. <hi>Cave diligenter ut ambules,</hi> Vulg. make it your eſpecial care to do this; <hi>ut modeſte ambules,</hi> Jun. Thus the Latine. The Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Sept.</hi> to be ready to this good work, prompt to it, and active in it; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Theod. Settle thy ſoul, compoſe thy Affections to this great Work. But the Original is our Sun, we muſt ſet our Watch by that: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> It may be read two wayes: Firſt, <hi>Humble thy ſelf to walk with God:</hi> or ſecondly, <hi>Walk humbly with thy God; ſubmittere ſe ubi cum Deo res eſt,</hi> In all addreſſes to God, to remember humility, <hi>Grot.</hi>
+            </p>
+            <p>The ſum is, That here is an Invitement to two duties:</p>
+            <p n="1">1. Preparatory, to an heavenly life, That we call Hu<g ref="char:EOLhyphen"/>miliation, which hath reference to ſin, and corrupt na<g ref="char:EOLhyphen"/>ture; which lye in the way, and muſt be removed, be<g ref="char:EOLhyphen"/>fore we can <hi>walk humbly with God.</hi>
+            </p>
+            <p n="2">2. Executive, the exerciſe after that preparation; this we ſhall call Humility: this we build on the latter ſence; as the former on the firſt.</p>
+            <p>Firſt, Humble thy ſelf <hi>to walk.</hi> That this is Gods Method, and the Prophets meaning, appears:</p>
+            <p n="1">1. If you look upon the words in their Propheticall ſenſe; ſo they are a notable preparation to the Goſpel
+<pb n="5" facs="tcp:117281:5"/>which was to be revealed. This Prophet was contem<g ref="char:EOLhyphen"/>porary to <hi>Iſaiah;</hi> and he is called by ſome, Evange<g ref="char:EOLhyphen"/>liſt. <hi>Iſai.</hi> 2.5. <hi>O ye houſe of Jacob;</hi> that is, O ye Jews, who ſtick ſo cloſe to your deſcent from <hi>Abraham</hi> and <hi>Jacob,</hi> and to your legal preeminencies; <hi>come ye,</hi> leave your former courſe; <hi>and let us walk in the light of the Lord;</hi> that is, accept the tender of the Goſpel. Now the preparation to the Goſpel, was Humiliation. <hi>John Baptiſt</hi> was ſent before, to prepare the way: he was a rough piece; rough in his Apparel, rough in his Diet, rough in his Expreſſions: he tells of a <hi>fan,</hi> of <hi>fire:</hi> he lays the ax to the radical corruptions and diſeaſes of that time; tells the Phariſees of their hypocriſie, the ſouldiers of their rapine and violence; he calls for re<g ref="char:EOLhyphen"/>pentance, and fruits too: he proclaims his employ<g ref="char:EOLhyphen"/>ment, <hi>Luke</hi> 3.4. <hi>Every valley ſhall be filled, and every mountain and hill ſhall be laid lowe: the crooked ſhall be made ſtrait, and the rough ways made ſmoothe.</hi> All theſe are ty<g ref="char:EOLhyphen"/>pical figurative expreſſions of preparation to the Goſpel. There's the Prophetical ſenſe.</p>
+            <p n="2">2. If you look upon the words in the Hiſtorical ſenſe, and ſo you will finde them ſutable to the whole tenour of the Scripture; everywhere informing us, that we muſt humble our ſelves, before we can <hi>walk humbly with God.</hi> In Naturals, God made ſomething out of no<g ref="char:EOLhyphen"/>thing; and out of that ſomething, all things; the even<g ref="char:EOLhyphen"/>ing, before the morning. In Legals, many waſhings and luſtrations, before oblation. In Religious, <hi>Gen.</hi> 35.2. <hi>Put away the ſtrange gods that are amongſt you, and be clean, and change your garments:</hi> and then he built an altar, verſ. 7. <hi>Joſh.</hi> 24.19, the people were in a zealous pang of devotion; they would ſerve the Lord all in a hurry: <hi>Joſhua</hi> tells them, that they <hi>cannot ſerve the
+<pb n="6" facs="tcp:117281:6"/>Lord; for he is a holy God, and a jealous; he will not for<g ref="char:EOLhyphen"/>give your tranſgreſsions, nor your ſins.</hi> And when they engaged the ſecond time, verſ. 21. <hi>Nay, but we will ſerve the Lord; Joſhua</hi> ſhews the neceſſity of humbling and reforming, verſ. 23. <hi>Now therefore,</hi> ſaid he, <hi>put away the ſtrange gods. Dan.</hi> 4.27. <hi>Nebuchadnezzar</hi> muſt <hi>break off his ſins by righteouſneſs, and his iniquities by ſhewing mercy to the poor,</hi> (the very ſame duties this Prophet requires, <hi>to do juſtly, and love mercy</hi>) before there can be a lengthening of his tranquility. And what ſhould I more ſay? The time would fail to tell of <hi>David,</hi> fitted <hi>to walk humbly with God</hi> by perſecution, S. <hi>Paul</hi> by blindneſs, <hi>Auguſtine</hi> by ſickneſs, <hi>Nazianzen</hi> by ſhip<g ref="char:EOLhyphen"/>wrack. In all ages of the Church, this hath been the courſe with God and good men; onely in this laſt, men bruſh thorow all, into the <hi>Adyta</hi> of Religion: Then they muſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, go leaſurely into it, <hi>paſti jejuniis, poludati Ciliciis,</hi> Cypr. there might you ſee one forlorn company ſtrewing the pavements, another go<g ref="char:EOLhyphen"/>ing to the priſons, to beg <hi>pacem</hi> of the Confeſſors there. But theſe ways are accounted, as <hi>Novatus</hi> impiouſly, <hi>Paulina rudimenta.</hi> We are got beyond theſe; and we muſt judge of a Chriſtian, as of a Star, with allowance of his <hi>parallax.</hi> But, <hi>non ſic à principio.</hi> In the Hiſtori<g ref="char:EOLhyphen"/>cal ſenſe, we finde Humiliation before Humility.</p>
+            <p n="3">3. In the Rational ſenſe. Can we think it poſſible, or reaſonable, that we can, or ought to paſs from Na<g ref="char:EOLhyphen"/>ture to Grace, from ſervice of Sin to ſervice of God, from Pride to Humility, without Humiliation? He that dyes Purple, muſt dye two colours firſt: A true Chriſtian muſt paſs thorow many waters, before he have his true tincture. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; who can make a Chriſtian as faſt as they can a <hi>ſtatua?</hi> caſt the figure all
+<pb n="7" facs="tcp:117281:6"/>in a day. <hi>Nazianzen</hi> takes a ſimilitude from his gown he ware: Firſt, Wool; then carded, then ſpun, then weaved, dreſſed and dyed; and at laſt cut into ſmall pieces, before a Coat made of it. So <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. It is meet thy ſoul be wrought over and over, paſs tho<g ref="char:EOLhyphen"/>row many preparations, before thou canſt be fit <hi>to walk with God. Nemo putet nullius Negotii eſſe, ut ſis animo hu<g ref="char:EOLhyphen"/>mili &amp; demiſſo, nihil aeque laborioſum,</hi> Nyſſ. Let no man think it a buſineſs of no buſineſs, to get an humble and demiſs heart and minde; there is nothing more labori<g ref="char:EOLhyphen"/>ous. Thou muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The ſtone-cutter of thine own heart. Have ye not ſeen poor labourers at that work ſawe and ſawe; then adde more ſand, more water, more weight, yet make but ſmall proceeding? When you come by, and ſee them next, ſpiritualize their employment; and think, Thus muſt I ſawe and polliſh my naughty, hard, proud heart, before I can be ſit to be a pillar in the Houſe of God; a Monument faſtened in his Temple of grace here, glory hereafter. <hi>Sicut in rudibus areis priuſquam ſerere incipias,</hi> Lact. as in Woodland, the trees muſt be felled, the briers and thorns ſtocked up, the ground cleared, before it can become arable or paſture: ſo, <hi>vitia prius detrahenda, priuſquam ſemina virtutum injicienda;</hi> before the ſeeds of any vertue and grace can with hope of an harveſt be caſt into the ſoul, the vices of former converſation muſt be rooted up.</p>
+            <p n="1">1. Without this Humiliation, there will be no ſence of the ſlavery of walking in the ways of ſin, 2 <hi>Chron.</hi> 12.8. <hi>My wrath ſhall not be poured out on Jeruſalem by Shi<g ref="char:EOLhyphen"/>ſhak; nevertheleſs they ſhall be his ſervants, that they may know my ſervice, and the ſervice of the kingdoms of the countries.</hi> The utmoſt fury of ſin ſhall not be poured
+<pb n="8" facs="tcp:117281:7"/>on the ſoul by Satan; but God leaves ſome remem<g ref="char:EOLhyphen"/>brance of ſins tyranny in every holy heart, that he may know <hi>Qualia Qualibus,</hi> what, for what he hath chang<g ref="char:EOLhyphen"/>ed; Sins ſervice, for Gods. <hi>Lucian</hi> could not be gotten to return to ſerve the Statuary <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, mindful of the ſwitch. <hi>My ſoul hath them in remembrance, and is humbled in me,</hi> Lam. 3.20.</p>
+            <p n="2">2. Without this Humiliation, there is no Spiritual reliſh of the ways of God. The Spouſe ſmitten and wounded by the watch-men, robbed of her vail by the keepers of the walls, <hi>Cant.</hi> 5.7. tells every one ſhe met, that ſhe was <hi>ſick of love.</hi> When their Judges, <hi>i.e.</hi> their Deliverers, or the Diſpenſers of their Laws, were over<g ref="char:EOLhyphen"/>thrown in ſtony places, and their bones lay ſcattered before the graves mouth, as chips on the earth where one heweth wood; then <hi>they will hear my words; for they are ſweet,</hi> Pſal. 141.6. When a poor ſoul hath been in Satans ſieve well winnowed, like <hi>Jonah</hi> in the midſt of the ſea, <hi>the weeds</hi> of ſin <hi>wrapped about his head,</hi> the Law with its curſe, as in his caſe, the earth with her bars was about him for ever; when he hath felt the ſtings of the fiery ſerpent, hath been at pits brink, even within the hearing of fearful yellings, and miſt of the bottomleſs pit, and by infinite mercy is brought to land, deliver<g ref="char:EOLhyphen"/>ed <hi>from going down to the pit,</hi> for he hath <hi>found a ranſome, Job</hi> 33.24. ſnatcht as a brand out of the fire, tranſlated from Law to Goſpel, from Curſe to a Crown, from a Slave to a Son: Then (I dare not ſay, Never till then; <hi>Deus utitur jure ſuo,</hi> goes his own way) is he fitted <hi>to walk humbly with God.</hi> Then <hi>Jonah</hi> will go and preach repentance; <hi>Saul</hi> enquire, <hi>Lord, what wilt thou have me to do?</hi> When ſin is forgiven, and infirmities healed, our life ſaved from deſtruction; then for a Pſalm that
+<pb n="9" facs="tcp:117281:7"/>ſhall begin, <hi>Bleſs the Lord, O my ſoul;</hi> and end ſo too, <hi>Bleſs the Lord, O my ſoul,</hi> Pſal. 103.1. <hi>ult.</hi> When the Red-ſea before, and the Egyptians behinde, and <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> delivered; then <hi>ſing ye to the Lord; for he hath tri<g ref="char:EOLhyphen"/>umphed gloriouſly,</hi> Exod. 15.2.</p>
+            <p n="3">3. Without this Humiliation, no <hi>walking with God</hi> can be conſtant. Our vows of New Obedience are kept no better, (not onely becauſe we keep not in minde the occaſion of making them, or becauſe we en<g ref="char:EOLhyphen"/>ter the field in; our own ſtrength; but eſpecially) be<g ref="char:EOLhyphen"/>cauſe they are the reſolutions of an unhumbled heart: we think to ſtop the mouth of our conſcience for im<g ref="char:EOLhyphen"/>pieties paſt, with purpoſes and reſolutions for the fu<g ref="char:EOLhyphen"/>ture. This People here, were guilty of Oppreſſion and Cruelty: the Prophet moves them to mend all, and, as a ſure foundation, bids them <hi>humble.</hi> We have done with the firſt ſenſe, as preparatory in Humiliation to true Humility; <hi>Humble thy ſelf to walk with God.</hi>
+            </p>
+            <p n="2">2. We come to the ſecond ſenſe, the Executive part; ſo the words are a motion to Humility. 1. <hi>Walk,</hi> that is, live, act, behave thy ſelf: There is <hi>via morum,</hi> as well as <hi>via pedum;</hi> of our manners, as of our feet: <hi>quâ non paſsibus itur, ſed affectibus;</hi> in which we walk, not with paces of our body, but affections of our minde. 1. There is a way Natural: We ſet out at our birth, eve<g ref="char:EOLhyphen"/>ry action a ſtep in this way; every hour we make ſome progreſs. <hi>Man walketh in a vain ſhadow, and diſquieteth himſelf in vain,</hi> Pſal. 39. <hi>He brought down my ſtrength in the way, and ſhortened my days,</hi> Pſal. 102.23. <hi>At death, they reſt in their beds,</hi> Iſai. 57.1. And the Metaphor holds; they are ſaid to <hi>ſit down with Abraham, Iſaac, and Jacob,</hi> Matth. 8.11. In this life, we walk; at death, we reſt: at the reſurrection we ſit; a poſture of fixedneſs,
+<pb n="10" facs="tcp:117281:8"/>of quietneſs, of gracefulneſs, and authority.</p>
+            <p n="2">2. A Moral way. <hi>Jer.</hi> 10. <hi>Learn not the way of the heathen.</hi> So our Calling is eſpecially our Way, <hi>Prov.</hi> 3.6. <hi>In all thy ways, acknowledge him, and he ſhall direct thy paths.</hi>
+            </p>
+            <p n="3">3. A Spiritual way; either the knowing part of it, <hi>Acts</hi> 19.9. <hi>ſpake evil of that way;</hi> verſe 23. <hi>no ſmall ſtir about that way,</hi> that is, the profeſſion of Religion: Or the Practick: <hi>Pſal.</hi> 25.4. <hi>Shew me thy ways, O Lord, and I will walk in thy paths.</hi> In which ſometime we are ſaid to <hi>walk with God:</hi> ſo <hi>Enoch</hi> (Gen. 6.) <hi>walked with God, and was not; for God tool him.</hi> Sometime, <hi>before</hi> God: So <hi>Abraham,</hi> Gen. 17.1. <hi>Walk before me:</hi> know that I am behinde thee, to obſerve thy gate. We are careful, when we know one that comes after us ob<g ref="char:EOLhyphen"/>ſerves us. Sometime, to <hi>walk after God,</hi> Deut. 13.4. <hi>Ye ſhall walk after the Lord your God;</hi> that is, imitate God; be holy, merciful, juſt, as your God is. <hi>Caput Religionis est aſsimilari illi quem colis,</hi> Lact. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Clem. Alex.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 55. To imitate God is impoſſible, without ſerving him; or to ſerve him, with<g ref="char:EOLhyphen"/>out imitation. 2. <hi>Humbly.</hi> The word, in all Langua<g ref="char:EOLhyphen"/>ges, hath its notation from the Ground.</p>
+            <p n="1">1. <hi>Walk with God,</hi> as one mindful of your original, whence you came, and whither you muſt go: get and keep thoughts of Mortality in your heart, that <hi>dust I am, and to dust I must return;</hi> that I am <hi>Abraham</hi>'s <hi>dust and aſhes,</hi> Iſaiahs <hi>graſs, and flower of the graſs:</hi> the graſs laſts not many moneths; but the freſh green verdure of it, not half that time, <hi>Job</hi> 16.22. <hi>When a few yeers are come, then ſhall I go the way whence I ſhall not return.</hi> S<hi rend="sup">t</hi>. <hi>Paul</hi>'s <hi>potſheard.</hi> But above all, <hi>Job</hi>'s <hi>worm:</hi> Job 25.6.
+<pb n="11" facs="tcp:117281:8"/>
+               <hi>How much leſs man, that is a worm; and the ſon of man, that is but a worm? Vermis in vita, lumbricus in morte;</hi> greater in life, leſs in death, then <hi>Lumbricus,</hi> properly thoſe ſmall worms that are bred out of the duſt that is hardened on the loins of beaſts: <hi>Lumbricus, à Lumbis.</hi> Sometimes for Mites in cheeſe; good remembrancers at our table. Or, worm, and but a worm: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The greateſt men are but greater worms; the leaſt, leſſer ones. <hi>Lord, what is man? Man is like a thing of nought; his time paſſeth away as a ſhadow.</hi> The trueſt In<g ref="char:EOLhyphen"/>ſcription we can encircle the Medal of Man withal, is that of the Pſalm, <hi>Univerſa vanitas est omnis homo,</hi> Pſal. 39.5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="2">2. <hi>Walk with God,</hi> as one mindful of this diſtance of Nature, widened by ſin; ſo look upon God as a terrible Judge, that <hi>will by no means clear the guilty; a conſuming fire,</hi> Heb. 12. <hi>ult.</hi> The Emperours (as we learn in <hi>He<g ref="char:EOLhyphen"/>rodian</hi>) uſed to have flaming coals of fire carried be<g ref="char:EOLhyphen"/>fore them, to teſtifie their devouring power: But Gods wrath hath conſumed them; their fire's gone out: <hi>Purpu<g ref="char:EOLhyphen"/>ratos &amp; Purpuratas, Purpurea abripuit Mors:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The Hees and Shees in Purple, Purple Death hath taken them all away, even <hi>Tyre</hi> and <hi>Sidon,</hi> the Re<g ref="char:EOLhyphen"/>gion of Purple: <hi>Clem. Alex.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 1. And look up<g ref="char:EOLhyphen"/>on thy ſelf, as dry ſtubble, fit fucl for eternal conſu<g ref="char:EOLhyphen"/>mings: Think thus; that for ſin thou art a priſoner committed when thou waſt born: all thy life long, thou goeſt up and down with thy keeper, thy Conſcience: thy life is given thee for no other end, but to ſue out thy Pardon: Thou knoweſt not how ſoon the grim Serejant will arreſt thee, and bring thee to Judgement, and then Eternity begins, (where millions of yeers, mul<g ref="char:EOLhyphen"/>tiplied by millions, will not make a minute.) Think of
+<pb n="12" facs="tcp:117281:9"/>theſe two Heads; what thou art by nature, a Worm; by ſin, a condemned Malefactor, and be proud if thou canſt.</p>
+            <p>
+               <hi>Walk humbly:</hi>
+            </p>
+            <p n="1">1. In all the paſſages of Gods providence to thee. In proſperity, <hi>walk humbly,</hi> for <hi>tunc ſolatur te,</hi> then he com<g ref="char:EOLhyphen"/>forts thee: In adverſity <hi>walk humbly,</hi> for <hi>tunc corrigit te,</hi> he corrects thee. <hi>In the day of adverſity conſider,</hi> Eccles. 7.14. In youth <hi>walk humbly, Remember now thy Creator in the dayes of thy Youth,</hi> Eccl. 12.1. In middle Age, <hi>Take me not away in the midſt of mine Age,</hi> Pſal. 102.24. In old Age <hi>walk humbly,</hi> when the Harbingers are come, the Almond tree flouriſheth, <hi>Forſake me not, O God, in my old age, when I am gray-headed,</hi> Pſal. 71.18. <hi>Simihi Iraſcatur Deus, num ego illi rediraſcar? non utique, ſed pavebo, &amp; Contremiſcam &amp; Veniam deprecabor; ſi ar<g ref="char:EOLhyphen"/>guet me, non redarguetur a me, ſed Juſtificabitur; Si Ju<g ref="char:EOLhyphen"/>dicaverit me, non illum Judicabo, ſed Adorabo; ſi Domina<g ref="char:EOLhyphen"/>tur, oportet me ſervire; ſi imperat, me parere,</hi> Ber. 38. in Cant. Thus <hi>walk humbly</hi> in life; yea in death too, <hi>walk humbly:</hi> Reject all your prayers, hearings, faſtings, receivings, and take heaven as a gift, Chriſt as a gift, ſuch a gift, as the Giver no way bound to give, or the recei<g ref="char:EOLhyphen"/>ver, to receive.
+<pb n="13" facs="tcp:117281:9"/>no way likely to be helped, that there is ſo great want of outward Reverence in our Religious addreſſes to our God: but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. for <hi>jam nec mala noſtra: nec Remedia pati poſſumus,</hi> Liv. we cannot endure our diſeaſe, nor the cure neither.</p>
+            <p n="3">3. The Motive, or Engagement, <hi>Thy God;</hi> That made thee, brought thee out of the land of Egypt, that delivered thee from <hi>Baalams</hi> curſe, that honoured thee with Prophets, and with his Law, that hath made many Covenants with thee. But, oh, how Redemption heighteneth this Relation! That hath redeemed thee by the blood of his Son, called thee by his grace, given thee many tokens of his Love, Word, Worſhip, Sacra<g ref="char:EOLhyphen"/>ments, Spirit, that hath engaged all to give himſelf to thee for all eternity. Say not, He is my Father, there<g ref="char:EOLhyphen"/>fore I may walk boldly with him; but, My father, therefore <hi>walk humbly:</hi> Say not, He ſpares me, there<g ref="char:EOLhyphen"/>fore approves my Impiety; but ſay, he waits for my Repentance. Take heed of that prophane ſpeech, <hi>heri feci Impunis,</hi> yeſterday I ſinned and was not puniſhed, <hi>hodie facio,</hi> to day, I'le do it again, <hi>&amp; cras faciam,</hi> and to morrow too.</p>
+            <p>
+               <hi>Thy God.</hi> This appropriating quality of faith is not ſo new, as the Pontificians would make it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Chryſ.</hi>
+            </p>
+            <p>
+               <hi>Thy,</hi> takes away all ſcruples of the Impoſſibility, Iſai. 33.4. <hi>The ſinners in Zion are afraid, who amongst us can dwell with devouring fire;</hi> ſin cannot, but humbled ſinners may.</p>
+            <p>Secondly, All ſcruples of Gods unwillingneſs. <hi>Thy, i. e.</hi> Reconciled God, who hath ſet out a way: His Son, a light; his Word, a guide; his Spirit inwardly, his Miniſters (like <hi>Statuae Mercuriales</hi>) outwardly, the
+<pb n="14" facs="tcp:117281:10"/>examples of his ſervants that were undefiled in the way.</p>
+            <p>Thirdly, Of any danger, Iſai. 35.8. <hi>There ſhall be an high way, and a way,</hi> &amp;c. <hi>No Lyon ſhall be there,</hi> &amp;c.</p>
+            <p>Fourthly, Of wanting our Reward, <hi>ſi tam bonus, es Deus te ſequentibus, oh quam es te Conſequentibus!</hi> If the Colony be ſuch, what is the City? <hi>Nyſſ.</hi> If <hi>Rebecca</hi> be ſo rich in Jewels at the eſpouſals, how at the Marriage? <hi>ſi adeo dulceſcit promulſis, oh quantum caena!</hi> Fulg.</p>
+            <p n="4">4. The Poyſe, or the Inforcement:</p>
+            <p n="1">1. This is good. Yea, the Good thing that man<g ref="char:EOLhyphen"/>kind ſo ſeeks after. Its good in it ſelf, ſure no higher honour, no greater perfection, no ſuch pleaſure, as to <hi>walk humbly</hi> with Him, who is the Infinite and eternall Good. 2. Its good for me. The beſt courſe I can take. <hi>Henoch walked with God, and he was not, for God took him,</hi> Gen. 5.24. by it, he became <hi>Candidatus Immor<g ref="char:EOLhyphen"/>talitatis,</hi> a probationer of eternity, <hi>in tempore non ſuo,</hi> before his time. The time would fail, to ſpeak of <hi>Abraham, Caleb, Moſes, David,</hi> Pſal. 17. <hi>ult. As for me, I'le behold thy face in righteouſneſs, and when I awake up after thy likeneſſe, I ſhall be ſatisfied with it.</hi> He thought is his beſt courſe to be a holy man, <hi>and to walk humbly with God.</hi> So did <hi>Aſaph,</hi> Pſal. 73. <hi>Mihi bonum eſt adhae<g ref="char:EOLhyphen"/>rere Deo, It is good for me to hold me faſt by God.</hi>
+            </p>
+            <p n="2">2. This God requires. Of <hi>Adam</hi> God required a Reverential ſubmiſſion, and <hi>walking humbly,</hi> and of the Angels in heaven, they both of them practiſed it; of us poor Mortals, miſerable ſinners, ſurely much more. It is not then an Arbitrary, but a neceſſary duty. God requires it, That you ſhould <hi>walk humbly with</hi> your <hi>God.</hi>
+            </p>
+            <p n="3">3. This God hath ſhewed cleatly to be his Will, by Prophets, by his Son, by his Apoſtles, by the Miniſtery
+<pb n="15" facs="tcp:117281:10"/>in all Ages. <hi>The Word is nigh thee, even in thy mouth, and in thy heart, and this is the Word of Faith which we preach,</hi> Rom. 10.8.</p>
+            <closer>Sedenti ſuper ſolium, &amp; Agno, ſit gloria &amp; Honor in aeternum. <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
